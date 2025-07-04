@@ -111,3 +111,4 @@ This project is open-source and available under the MIT License.
 ## Usage
 
 This is a basic student-level project designed to understand the concept of Machine Learning. Gold Rate Prediction serves as a practical example of applying machine learning to a real-world financial problem. It demonstrates how historical data can be used to train models that predict future values, helping to explore the fundamentals of data analysis, feature selection, and regression algorithms in a meaningful context.
+Hello everyone how are you guys
