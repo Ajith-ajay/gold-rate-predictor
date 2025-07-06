@@ -11,7 +11,7 @@
 
 ## Overview
 
-Gold Rate Prediction using Machine Learning is a technique that leverages historical data and statistical algorithms to forecast future gold prices. By analyzing factors such as previous gold rates, market trends, global economic indicators, and other relevant financial data, the model learns patterns that influence the price of gold. Machine learning models such as Linear Regression, Random Forest, or XGBoost are trained on historical gold price datasets to predict future rates accurately. This approach aids in better financial planning and investment decision-making. In this i used Linear Regression to train the ML modal
+Gold Rate Prediction using Machine Learning is a technique that leverages historical data and statistical algorithms to forecast future gold prices. By analyzing factors such as previous gold rates, market trends, global economic indicators, and other relevant financial data, the model learns patterns that influence the price of gold. Machine learning models such as Linear Regression, Random Forest, or XGBoost are trained on historical gold price datasets to predict future rates accurately. This approach aids in better financial planning and investment decision-making.
 
 ## ✅ Required Modules
 
